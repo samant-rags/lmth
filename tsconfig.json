@@ -8,6 +8,8 @@
     "target": "ESNext",
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "strict": true
+    "strict": true,
+    "allowJs": true,
+    "declaration": false
   }
 }
